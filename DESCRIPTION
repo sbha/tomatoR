@@ -1,0 +1,11 @@
+Package: tomatoR
+Type: Package
+Title: pomodoro timer
+Version: 0.1.0
+Author: Stu Harty
+Maintainer: Stu Harty <stuart.harty@gmail.com>
+Description: Function to run a pomodoro technique timer.
+    Defaults to 25 minutes work and 5 minutes rest, but can be adjusted. 
+License: 
+Encoding: UTF-8
+LazyData: true
